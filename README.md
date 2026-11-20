@@ -21,7 +21,7 @@ Website for **MSR Tomatoes**, wholesale tomato dealers based in **Tenkasi, Tamil
 | | |
 |---|---|
 | Phone / WhatsApp | +91 97877 42175 |
-| Email | contact@msr.com (placeholder) |
+| Email | kmaheshwaran9965@gmail.com |
 | Location | Tenkasi, Tamil Nadu ([Google Maps](https://maps.app.goo.gl/TBw7mvq84U39yLVB8)) |
 | Hours | Open 24 hours, all days |
 
